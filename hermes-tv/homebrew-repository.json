@@ -1,0 +1,12 @@
+{
+  "packages": [
+    {
+      "id": "com.lennylxx.iptv",
+      "title": "Sergio TV",
+      "iconUri": "https://raw.githubusercontent.com/lennylxx/webos-iptv-player/main/assets/icon130.png",
+      "manifestUrl": "https://github.com/sergrahi/MyM3uPlaylists/releases/download/tvsergio-v1.16.0/com.lennylxx.iptv.manifest.json",
+      "fullDescriptionUrl": "https://github.com/sergrahi/MyM3uPlaylists",
+      "shortDescription": "IPTV player para la LG CX: M3U/Xtream, guia EPG, catch-up, control de bufer."
+    }
+  ]
+}
