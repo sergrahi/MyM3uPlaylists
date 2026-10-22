@@ -1,0 +1,152 @@
+# match: Barcelona vs Real Madrid stream and TV schedule  |  cadenas: Spain: DAZN España, DAZN LaLiga, Movistar+, LaLiga TV Bar HD | USA: ABC, ESPN Deportes USA, ESPN+, fuboTV, ESPN App | Canada: TSN Premium | Great Britain: Premier Sports 1, Premier Sports Player | Germany: DAZN Germany | Italy: DAZN Italia
+# generado por busca-partido  |  grupo: _HOY PARTIDO_  |  borrable desde Ajustes de la app cuando decidas
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DAZN LIGA 1 FHD B" tvg-logo="" group-title="_HOY PARTIDO_",DAZN España · |ES| DAZN LIGA 1 FHD B
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1895722.ts
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DAZN LIGA FHD" tvg-logo="" group-title="_HOY PARTIDO_",DAZN España · |ES| DAZN LIGA FHD
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1948839.ts
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DAZN LIGA 1 HD B" tvg-logo="" group-title="_HOY PARTIDO_",DAZN España · |ES| DAZN LIGA 1 HD B
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1948768.ts
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DAZN LIGA HD" tvg-logo="" group-title="_HOY PARTIDO_",DAZN España · |ES| DAZN LIGA HD
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1948840.ts
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DAZN LIGA 2 FHD B" tvg-logo="" group-title="_HOY PARTIDO_",DAZN España · |ES| DAZN LIGA 2 FHD B
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1895724.ts
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DAZN LIGA 2 FHD" tvg-logo="" group-title="_HOY PARTIDO_",DAZN España · |ES| DAZN LIGA 2 FHD
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1948841.ts
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DAZN LIGA 2 HD B" tvg-logo="" group-title="_HOY PARTIDO_",DAZN España · |ES| DAZN LIGA 2 HD B
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1948769.ts
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DAZN LIGA 2 HD" tvg-logo="" group-title="_HOY PARTIDO_",DAZN España · |ES| DAZN LIGA 2 HD
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1948842.ts
+#EXTINF:-1 tvg-id="" tvg-name="|ES-P|  LaLiga Hypermotion TV" tvg-logo="" group-title="_HOY PARTIDO_",DAZN LaLiga · |ES-P|  LaLiga Hypermotion TV
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1898461.ts
+#EXTINF:-1 tvg-id="" tvg-name="|ES-P| LaLiga Hypermotion TV" tvg-logo="" group-title="_HOY PARTIDO_",DAZN LaLiga · |ES-P| LaLiga Hypermotion TV
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1898490.ts
+#EXTINF:-1 tvg-id="" tvg-name="|ES-P| LaLiga Hypermotion TV 2" tvg-logo="" group-title="_HOY PARTIDO_",DAZN LaLiga · |ES-P| LaLiga Hypermotion TV 2
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1898491.ts
+#EXTINF:-1 tvg-id="" tvg-name="|ES-P|  LaLiga Hypermotion TV 3" tvg-logo="" group-title="_HOY PARTIDO_",DAZN LaLiga · |ES-P|  LaLiga Hypermotion TV 3
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1898492.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES - M+ LALIGA BAR ᵁᴴᴰ" tvg-logo="" group-title="_HOY PARTIDO_",DAZN LaLiga · ES - M+ LALIGA BAR ᵁᴴᴰ
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/683809.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ COPA DEL REY FHD" tvg-logo="" group-title="_HOY PARTIDO_",Movistar+ · ES| M+ COPA DEL REY FHD
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1264534.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ COPA DEL REY SD" tvg-logo="" group-title="_HOY PARTIDO_",Movistar+ · ES| M+ COPA DEL REY SD
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1264536.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTV SD" tvg-logo="" group-title="_HOY PARTIDO_",Movistar+ · M+ LaLigaTV SD
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1082228.ts
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR PRIMERA FEDERACION FHD" tvg-logo="" group-title="_HOY PARTIDO_",Movistar+ · |ES| MOVISTAR PRIMERA FEDERACION FHD
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1707036.ts
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR PRIMERA FEDERACION HD" tvg-logo="" group-title="_HOY PARTIDO_",Movistar+ · |ES| MOVISTAR PRIMERA FEDERACION HD
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1707037.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES-M+ Vamos FHD" tvg-logo="" group-title="_HOY PARTIDO_",Movistar+ · ES-M+ Vamos FHD
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1947044.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES-M+ Vamos HD" tvg-logo="" group-title="_HOY PARTIDO_",Movistar+ · ES-M+ Vamos HD
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1947045.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES-LALIGA TV HYPERMOTION 4 HD" tvg-logo="" group-title="_HOY PARTIDO_",LaLiga TV Bar HD · ES-LALIGA TV HYPERMOTION 4 HD
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1947021.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES-LALIGA TV HYPERMOTION 5 HD" tvg-logo="" group-title="_HOY PARTIDO_",LaLiga TV Bar HD · ES-LALIGA TV HYPERMOTION 5 HD
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1947023.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES-LALIGA TV HYPERMOTION 6 HD" tvg-logo="" group-title="_HOY PARTIDO_",LaLiga TV Bar HD · ES-LALIGA TV HYPERMOTION 6 HD
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1947025.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES-LALIGA TV HYPERMOTION 7 HD" tvg-logo="" group-title="_HOY PARTIDO_",LaLiga TV Bar HD · ES-LALIGA TV HYPERMOTION 7 HD
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1947027.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES-LALIGA TV HYPERMOTION 8 HD" tvg-logo="" group-title="_HOY PARTIDO_",LaLiga TV Bar HD · ES-LALIGA TV HYPERMOTION 8 HD
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1947029.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES-LALIGA TV HYPERMOTION 9 HD" tvg-logo="" group-title="_HOY PARTIDO_",LaLiga TV Bar HD · ES-LALIGA TV HYPERMOTION 9 HD
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1947030.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES-LALIGA TV HYPERMOTION 10 HD" tvg-logo="" group-title="_HOY PARTIDO_",LaLiga TV Bar HD · ES-LALIGA TV HYPERMOTION 10 HD
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1947033.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES-LALIGA TV HYPERMOTION 11 HD" tvg-logo="" group-title="_HOY PARTIDO_",LaLiga TV Bar HD · ES-LALIGA TV HYPERMOTION 11 HD
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1947035.ts
+#EXTINF:-1 tvg-id="" tvg-name="US| ABC News Live HD (S)" tvg-logo="" group-title="_HOY PARTIDO_",ABC · US| ABC News Live HD (S)
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1861262.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABC | Louisville | ABC WHAS11" tvg-logo="" group-title="_HOY PARTIDO_",ABC · ABC | Louisville | ABC WHAS11
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1396058.ts
+#EXTINF:-1 tvg-id="" tvg-name="US-P| ABC 6 (WRTV) INDIANAPOLIS FHD" tvg-logo="" group-title="_HOY PARTIDO_",ABC · US-P| ABC 6 (WRTV) INDIANAPOLIS FHD
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1847459.ts
+#EXTINF:-1 tvg-id="" tvg-name="US-P| ABC 7 (WLS) CHICAGO FHD" tvg-logo="" group-title="_HOY PARTIDO_",ABC · US-P| ABC 7 (WLS) CHICAGO FHD
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1847462.ts
+#EXTINF:-1 tvg-id="" tvg-name="US-P| ABC 9 (WCPO) CINCINATTI FHD" tvg-logo="" group-title="_HOY PARTIDO_",ABC · US-P| ABC 9 (WCPO) CINCINATTI FHD
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1847468.ts
+#EXTINF:-1 tvg-id="" tvg-name="US-P| ABC 9 (WSOC) CHARLOTTE FHD" tvg-logo="" group-title="_HOY PARTIDO_",ABC · US-P| ABC 9 (WSOC) CHARLOTTE FHD
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1847470.ts
+#EXTINF:-1 tvg-id="" tvg-name="US-P| ABC 30 (KFSN) FRESNO FHD" tvg-logo="" group-title="_HOY PARTIDO_",ABC · US-P| ABC 30 (KFSN) FRESNO FHD
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1847464.ts
+#EXTINF:-1 tvg-id="" tvg-name="US-P| ABC NEWS LIVE HD" tvg-logo="" group-title="_HOY PARTIDO_",ABC · US-P| ABC NEWS LIVE HD
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1847131.ts
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| ESPN Deportes ᵁᴴᴰ" tvg-logo="" group-title="_HOY PARTIDO_",ESPN Deportes USA · |LAM| ESPN Deportes ᵁᴴᴰ
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/6501.ts
+#EXTINF:-1 tvg-id="" tvg-name="US| ESPN DEPORTES HD (S)" tvg-logo="" group-title="_HOY PARTIDO_",ESPN Deportes USA · US| ESPN DEPORTES HD (S)
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1861110.ts
+#EXTINF:-1 tvg-id="" tvg-name="|US| ESPN USA" tvg-logo="" group-title="_HOY PARTIDO_",ESPN Deportes USA · |US| ESPN USA
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/11203.ts
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. Deportes 1 ᵁᴴᴰ" tvg-logo="" group-title="_HOY PARTIDO_",ESPN Deportes USA · |ES| M. Deportes 1 ᵁᴴᴰ
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/201490.ts
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. Deportes 1 ᴴᴰ" tvg-logo="" group-title="_HOY PARTIDO_",ESPN Deportes USA · |ES| M. Deportes 1 ᴴᴰ
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/662.ts
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. Deportes 1 ˢᴰ" tvg-logo="" group-title="_HOY PARTIDO_",ESPN Deportes USA · |ES| M. Deportes 1 ˢᴰ
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/202700.ts
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. Deportes 2 ᵁᴴᴰ" tvg-logo="" group-title="_HOY PARTIDO_",ESPN Deportes USA · |ES| M. Deportes 2 ᵁᴴᴰ
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/201489.ts
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. Deportes 2 ᴴᴰ" tvg-logo="" group-title="_HOY PARTIDO_",ESPN Deportes USA · |ES| M. Deportes 2 ᴴᴰ
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/122987.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN FC Daily: Thu 10-22 ESPN FC @ Oct 22 5:00 PM :ESPN+  19" tvg-logo="" group-title="_HOY PARTIDO_",ESPN+ · ESPN FC Daily: Thu 10-22 ESPN FC @ Oct 22 5:00 PM :ESPN+  19
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1317120.ts
+#EXTINF:-1 tvg-id="" tvg-name="|BR| ESPN INTERNACIONAL ᴴᴰ" tvg-logo="" group-title="_HOY PARTIDO_",ESPN+ · |BR| ESPN INTERNACIONAL ᴴᴰ
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/28864.ts
+#EXTINF:-1 tvg-id="" tvg-name="|BR| ESPN ᴴᴰ" tvg-logo="" group-title="_HOY PARTIDO_",ESPN+ · |BR| ESPN ᴴᴰ
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/28865.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD BR" tvg-logo="" group-title="_HOY PARTIDO_",ESPN+ · ESPN 2 HD BR
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1858248.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD BR" tvg-logo="" group-title="_HOY PARTIDO_",ESPN+ · ESPN 2 HD BR
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1858249.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 FHD BR" tvg-logo="" group-title="_HOY PARTIDO_",ESPN+ · ESPN 3 FHD BR
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1858250.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD BR" tvg-logo="" group-title="_HOY PARTIDO_",ESPN+ · ESPN 4 HD BR
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1858251.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil HD BR" tvg-logo="" group-title="_HOY PARTIDO_",ESPN+ · ESPN Brasil HD BR
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1858252.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra HD BR" tvg-logo="" group-title="_HOY PARTIDO_",ESPN App · ESPN Extra HD BR
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1858253.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES| Fox Sports Premium" tvg-logo="" group-title="_HOY PARTIDO_",TSN Premium · ES| Fox Sports Premium
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/2112156.ts
+#EXTINF:-1 tvg-id="" tvg-name="|BR| FOX PREMIUM  2 ᴴᴰ" tvg-logo="" group-title="_HOY PARTIDO_",TSN Premium · |BR| FOX PREMIUM  2 ᴴᴰ
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/28902.ts
+#EXTINF:-1 tvg-id="" tvg-name="|BR| FOX PREMIUM ᴴᴰ" tvg-logo="" group-title="_HOY PARTIDO_",TSN Premium · |BR| FOX PREMIUM ᴴᴰ
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/28901.ts
+#EXTINF:-1 tvg-id="" tvg-name="|BR| TELECINE PREMIUM ᴴᴰ" tvg-logo="" group-title="_HOY PARTIDO_",TSN Premium · |BR| TELECINE PREMIUM ᴴᴰ
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/28918.ts
+#EXTINF:-1 tvg-id="" tvg-name="|EC| Fox Sports Premium" tvg-logo="" group-title="_HOY PARTIDO_",TSN Premium · |EC| Fox Sports Premium
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/296126.ts
+#EXTINF:-1 tvg-id="" tvg-name="|ARG| FOX SPORTS PREMIUM ᴴᴰ" tvg-logo="" group-title="_HOY PARTIDO_",TSN Premium · |ARG| FOX SPORTS PREMIUM ᴴᴰ
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/73206.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHL TNT Sports Premium 2 HD CL" tvg-logo="" group-title="_HOY PARTIDO_",TSN Premium · CHL TNT Sports Premium 2 HD CL
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/2093398.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHL CDO Premium HD" tvg-logo="" group-title="_HOY PARTIDO_",TSN Premium · CHL CDO Premium HD
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/2093240.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK| PREMIER SPORTS 1 IR ᵁᴴᴰ" tvg-logo="" group-title="_HOY PARTIDO_",Premier Sports 1 · |UK| PREMIER SPORTS 1 IR ᵁᴴᴰ
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/138151.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK| PREMIER SPORTS 1 UK ᵁᴴᴰ" tvg-logo="" group-title="_HOY PARTIDO_",Premier Sports 1 · |UK| PREMIER SPORTS 1 UK ᵁᴴᴰ
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/138153.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK| PREMIER SPORTS 1 ᵁᴴᴰ" tvg-logo="" group-title="_HOY PARTIDO_",Premier Sports 1 · |UK| PREMIER SPORTS 1 ᵁᴴᴰ
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/303258.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK| PREMIER SPORTS 1 ᵁᴴᴰ" tvg-logo="" group-title="_HOY PARTIDO_",Premier Sports 1 · |UK| PREMIER SPORTS 1 ᵁᴴᴰ
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/54878.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK| PREMIER SPORTS 1 ˢᴰ" tvg-logo="" group-title="_HOY PARTIDO_",Premier Sports 1 · |UK| PREMIER SPORTS 1 ˢᴰ
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/205913.ts
+#EXTINF:-1 tvg-id="" tvg-name="NZ Premier Sports 1 HD" tvg-logo="" group-title="_HOY PARTIDO_",Premier Sports 1 · NZ Premier Sports 1 HD
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1057818.ts
+#EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 1" tvg-logo="" group-title="_HOY PARTIDO_",Premier Sports 1 · Now HK Premier Sports 1
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/313823.ts
+#EXTINF:-1 tvg-id="" tvg-name="|ES| beIN Sports 1" tvg-logo="" group-title="_HOY PARTIDO_",Premier Sports 1 · |ES| beIN Sports 1
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1331234.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Sky Sports Premier League ᵁᴴᴰ" tvg-logo="" group-title="_HOY PARTIDO_",Premier Sports Player · |UK| Sky Sports Premier League ᵁᴴᴰ
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/693882.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK| PREMIER SPORTS 2 IR ᵁᴴᴰ" tvg-logo="" group-title="_HOY PARTIDO_",Premier Sports Player · |UK| PREMIER SPORTS 2 IR ᵁᴴᴰ
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/138152.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK| PREMIER SPORTS 2 UK ᵁᴴᴰ" tvg-logo="" group-title="_HOY PARTIDO_",Premier Sports Player · |UK| PREMIER SPORTS 2 UK ᵁᴴᴰ
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/138154.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK| SKY SPORTS PREMIER LEAGUE ᵁᴴᴰ" tvg-logo="" group-title="_HOY PARTIDO_",Premier Sports Player · |UK| SKY SPORTS PREMIER LEAGUE ᵁᴴᴰ
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/190956.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN UK 008|  Drift Masters - Germany: Top 32 (2026-08-15 12:45:00)" tvg-logo="" group-title="_HOY PARTIDO_",DAZN Germany · DAZN UK 008|  Drift Masters - Germany: Top 32 (2026-08-15 12:45:00)
+http://smart-d24k.live:80/live/sb3vqsu40c/yskzas65pw/1389569.ts
+build-m3u: 74 canales para Barcelona vs Real Madrid stream and TV schedule
